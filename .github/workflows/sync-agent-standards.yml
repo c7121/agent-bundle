@@ -39,7 +39,7 @@ jobs:
           persist-credentials: false
           fetch-depth: 1
           # TODO: Set this to your canonical repo, e.g. my-org/agent-standards
-          repository: YOUR_ORG/agent-standards
+          repository: c7121/agent-bundle
           ref: main
           path: .agent-standards-src
           # For private upstream repos, define a secret with read access to that repo.
