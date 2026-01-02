@@ -1,4 +1,4 @@
-# Agent docs bundle (v6)
+# Agent docs bundle
 
 This bundle supports a "canonical repo + weekly sync PR" workflow and includes
 security-focused agent standards plus a hardened GitHub Actions workflow.
