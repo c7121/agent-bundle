@@ -11,7 +11,7 @@ Files included:
 - docs/adr/_template.md
 - docs/agent/references.md (external links/anchors)
 - docs/agent/checklist.md
-- scripts/sync_agent_standards.cts
+- scripts/sync_agent_standards.mjs
 - .github/workflows/sync-agent-standards.yml (pinned SHAs)
 - docs/agent/SETUP_SYNC.md
 

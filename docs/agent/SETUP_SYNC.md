@@ -42,6 +42,5 @@ In GitHub repo settings:
 
 Then either wait for the scheduled run or trigger it manually via Actions → "Sync agent standards".
 
-## Notes on TypeScript execution
-The sync script is TypeScript (.cts) and runs directly with Node.js.
-Node executes erasable TypeScript syntax via type stripping (no type-checking).
+## Notes on script execution
+The sync script is plain JavaScript ESM (`.mjs`) and runs directly with Node.js.
